@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SimpleCalculatorUI/1.0.0": {
+        "dependencies": {
+          "SimpleCalcLibrary": "1.0.0"
+        },
+        "runtime": {
+          "SimpleCalculatorUI.dll": {}
+        }
+      },
+      "SimpleCalcLibrary/1.0.0": {
+        "runtime": {
+          "SimpleCalcLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleCalculatorUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimpleCalcLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
