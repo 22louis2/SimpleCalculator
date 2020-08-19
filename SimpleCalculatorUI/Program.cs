@@ -19,6 +19,7 @@ namespace SimpleCalcUI
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
+            // Connecting the Calculator UI to the Calculator Operations Methods
             DIAdapter.PlugAdapter();
             ISimpleCalcRepository res = DIAdapter.IAdapter;
 

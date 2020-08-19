@@ -84,6 +84,7 @@
             this.txtDisplay.ReadOnly = true;
             this.txtDisplay.Size = new System.Drawing.Size(532, 69);
             this.txtDisplay.TabIndex = 0;
+            this.txtDisplay.Text = "0";
             this.txtDisplay.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
             // tableLayoutPanel2
@@ -410,16 +411,17 @@
             // 
             this.lblShowOp.AutoSize = true;
             this.lblShowOp.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.lblShowOp.Font = new System.Drawing.Font("Times New Roman", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lblShowOp.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.lblShowOp.Location = new System.Drawing.Point(22, 17);
             this.lblShowOp.Name = "lblShowOp";
-            this.lblShowOp.Size = new System.Drawing.Size(0, 15);
+            this.lblShowOp.Size = new System.Drawing.Size(0, 19);
             this.lblShowOp.TabIndex = 1;
             // 
             // CalculatorUI
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(562, 427);
             this.Controls.Add(this.lblShowOp);
             this.Controls.Add(this.tableLayoutPanel1);

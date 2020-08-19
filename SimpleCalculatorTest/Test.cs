@@ -6,6 +6,8 @@ namespace SimpleCalculatorTest
 {
     public class Test
     {
+        #region CHECKING ADDITION METHOD
+        // Checking if the result gotten is as expected
         [Fact]
         public void CheckingAddition()
         {
@@ -21,7 +23,10 @@ namespace SimpleCalculatorTest
             // Assert
             Assert.Equal(expected, actual);
         }
+        #endregion
 
+        #region CHECKING SUBTRACTION METHOD
+        // Checking if result is same as expected
         [Fact]
         public void CheckingSubtraction()
         {
@@ -37,7 +42,10 @@ namespace SimpleCalculatorTest
             // Assert
             Assert.Equal(expected, actual);
         }
+        #endregion
 
+        #region CHECKING MULTIPLICATION METHOD
+        // Checking if the result for multiplying is same as expected
         [Fact]
         public void CheckingMultiplication()
         {
@@ -53,7 +61,10 @@ namespace SimpleCalculatorTest
             // Assert
             Assert.Equal(expected, actual);
         }
+        #endregion
 
+        #region CHECKING DIVISION METHOD
+        // Checking if the result is as expected
         [Fact]
         public void CheckingDivision()
         {
@@ -69,5 +80,25 @@ namespace SimpleCalculatorTest
             // Assert
             Assert.Equal(expected, actual);
         }
+        #endregion
+
+        #region CHECKING ERROR GOTTEN FROM DIVIDING BY ZERO
+        /* Checking if the user tries to divide by 0
+         * Throw an error
+        */
+        [Fact]
+        public void DividingByZeroException()
+        {
+            // Arrange
+            string firstNumber = "25";
+            string secondNumber = "0";
+            SimpleCalcRepository res = new SimpleCalcRepository();
+
+            // Assert
+            Assert.Throws<DivideByZeroException>(() =>
+                res.Divide(firstNumber, secondNumber)
+            );
+        }
+        #endregion
     }
 }
