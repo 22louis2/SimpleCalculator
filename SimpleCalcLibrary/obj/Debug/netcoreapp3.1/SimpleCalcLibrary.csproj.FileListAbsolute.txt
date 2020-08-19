@@ -7,3 +7,12 @@ C:\Users\hp\source\repos\SimpleCalculator\SimpleCalcLibrary\obj\Debug\netcoreapp
 C:\Users\hp\source\repos\SimpleCalculator\SimpleCalcLibrary\obj\Debug\netcoreapp3.1\SimpleCalcLibrary.csproj.CoreCompileInputs.cache
 C:\Users\hp\source\repos\SimpleCalculator\SimpleCalcLibrary\obj\Debug\netcoreapp3.1\SimpleCalcLibrary.dll
 C:\Users\hp\source\repos\SimpleCalculator\SimpleCalcLibrary\obj\Debug\netcoreapp3.1\SimpleCalcLibrary.pdb
+C:\Users\hp\source\repos\week-5-task-22louis2\SimpleCalcLibrary\bin\Debug\netcoreapp3.1\SimpleCalcLibrary.deps.json
+C:\Users\hp\source\repos\week-5-task-22louis2\SimpleCalcLibrary\bin\Debug\netcoreapp3.1\SimpleCalcLibrary.dll
+C:\Users\hp\source\repos\week-5-task-22louis2\SimpleCalcLibrary\bin\Debug\netcoreapp3.1\SimpleCalcLibrary.pdb
+C:\Users\hp\source\repos\week-5-task-22louis2\SimpleCalcLibrary\obj\Debug\netcoreapp3.1\SimpleCalcLibrary.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\week-5-task-22louis2\SimpleCalcLibrary\obj\Debug\netcoreapp3.1\SimpleCalcLibrary.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\week-5-task-22louis2\SimpleCalcLibrary\obj\Debug\netcoreapp3.1\SimpleCalcLibrary.AssemblyInfo.cs
+C:\Users\hp\source\repos\week-5-task-22louis2\SimpleCalcLibrary\obj\Debug\netcoreapp3.1\SimpleCalcLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\week-5-task-22louis2\SimpleCalcLibrary\obj\Debug\netcoreapp3.1\SimpleCalcLibrary.dll
+C:\Users\hp\source\repos\week-5-task-22louis2\SimpleCalcLibrary\obj\Debug\netcoreapp3.1\SimpleCalcLibrary.pdb

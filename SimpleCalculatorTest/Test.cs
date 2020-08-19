@@ -83,7 +83,7 @@ namespace SimpleCalculatorTest
         #endregion
 
         #region CHECKING ERROR GOTTEN FROM DIVIDING BY ZERO
-        /* Checking if the user tries to divide by 0
+        /* Checking if the user tries to divide first number by 0
          * Throw an error
         */
         [Fact]

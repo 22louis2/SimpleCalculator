@@ -4,7 +4,7 @@ namespace SimpleCalcLibrary
 {
     public class SimpleCalcRepository : ISimpleCalcRepository
     {
-        // Property Created
+        // Property Created for the class
         public double Result { get; set; }
 
         #region IMPLEMENTATION OF THE ADDING METHOD

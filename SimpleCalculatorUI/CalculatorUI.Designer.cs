@@ -129,282 +129,322 @@
             // 
             // BtnDivide
             // 
+            this.BtnDivide.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.BtnDivide.Dock = System.Windows.Forms.DockStyle.Fill;
             this.BtnDivide.FlatAppearance.BorderSize = 0;
             this.BtnDivide.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.BtnDivide.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.BtnDivide.Location = new System.Drawing.Point(402, 262);
             this.BtnDivide.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.BtnDivide.Name = "BtnDivide";
             this.BtnDivide.Size = new System.Drawing.Size(127, 65);
             this.BtnDivide.TabIndex = 0;
             this.BtnDivide.Text = "/";
-            this.BtnDivide.UseVisualStyleBackColor = true;
+            this.BtnDivide.UseVisualStyleBackColor = false;
             this.BtnDivide.Click += new System.EventHandler(this.ArithmeticOperator);
             // 
             // BtnEquality
             // 
+            this.BtnEquality.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.BtnEquality.Dock = System.Windows.Forms.DockStyle.Fill;
             this.BtnEquality.FlatAppearance.BorderSize = 0;
             this.BtnEquality.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.BtnEquality.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.BtnEquality.Location = new System.Drawing.Point(269, 262);
             this.BtnEquality.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.BtnEquality.Name = "BtnEquality";
             this.BtnEquality.Size = new System.Drawing.Size(127, 65);
             this.BtnEquality.TabIndex = 0;
             this.BtnEquality.Text = "=";
-            this.BtnEquality.UseVisualStyleBackColor = true;
+            this.BtnEquality.UseVisualStyleBackColor = false;
             this.BtnEquality.Click += new System.EventHandler(this.BtnEquality_Click);
             // 
             // BtnZero
             // 
+            this.BtnZero.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.BtnZero.Dock = System.Windows.Forms.DockStyle.Fill;
             this.BtnZero.FlatAppearance.BorderSize = 0;
             this.BtnZero.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.BtnZero.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.BtnZero.Location = new System.Drawing.Point(136, 262);
             this.BtnZero.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.BtnZero.Name = "BtnZero";
             this.BtnZero.Size = new System.Drawing.Size(127, 65);
             this.BtnZero.TabIndex = 0;
             this.BtnZero.Text = "0";
-            this.BtnZero.UseVisualStyleBackColor = true;
+            this.BtnZero.UseVisualStyleBackColor = false;
             this.BtnZero.Click += new System.EventHandler(this.BtnNumeric);
             // 
             // BtnDot
             // 
+            this.BtnDot.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.BtnDot.Dock = System.Windows.Forms.DockStyle.Fill;
             this.BtnDot.FlatAppearance.BorderSize = 0;
             this.BtnDot.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.BtnDot.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.BtnDot.Location = new System.Drawing.Point(3, 262);
             this.BtnDot.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.BtnDot.Name = "BtnDot";
             this.BtnDot.Size = new System.Drawing.Size(127, 65);
             this.BtnDot.TabIndex = 0;
             this.BtnDot.Text = ".";
-            this.BtnDot.UseVisualStyleBackColor = true;
+            this.BtnDot.UseVisualStyleBackColor = false;
             this.BtnDot.Click += new System.EventHandler(this.BtnNumeric);
             // 
             // BtnTimes
             // 
+            this.BtnTimes.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.BtnTimes.Dock = System.Windows.Forms.DockStyle.Fill;
             this.BtnTimes.FlatAppearance.BorderSize = 0;
             this.BtnTimes.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.BtnTimes.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.BtnTimes.Location = new System.Drawing.Point(402, 197);
             this.BtnTimes.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.BtnTimes.Name = "BtnTimes";
             this.BtnTimes.Size = new System.Drawing.Size(127, 61);
             this.BtnTimes.TabIndex = 0;
             this.BtnTimes.Text = "*";
-            this.BtnTimes.UseVisualStyleBackColor = true;
+            this.BtnTimes.UseVisualStyleBackColor = false;
             this.BtnTimes.Click += new System.EventHandler(this.ArithmeticOperator);
             // 
             // BtnThree
             // 
+            this.BtnThree.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.BtnThree.Dock = System.Windows.Forms.DockStyle.Fill;
             this.BtnThree.FlatAppearance.BorderSize = 0;
             this.BtnThree.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.BtnThree.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.BtnThree.Location = new System.Drawing.Point(269, 197);
             this.BtnThree.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.BtnThree.Name = "BtnThree";
             this.BtnThree.Size = new System.Drawing.Size(127, 61);
             this.BtnThree.TabIndex = 0;
             this.BtnThree.Text = "3";
-            this.BtnThree.UseVisualStyleBackColor = true;
+            this.BtnThree.UseVisualStyleBackColor = false;
             this.BtnThree.Click += new System.EventHandler(this.BtnNumeric);
             // 
             // BtnTwo
             // 
+            this.BtnTwo.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.BtnTwo.Dock = System.Windows.Forms.DockStyle.Fill;
             this.BtnTwo.FlatAppearance.BorderSize = 0;
             this.BtnTwo.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.BtnTwo.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.BtnTwo.Location = new System.Drawing.Point(136, 197);
             this.BtnTwo.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.BtnTwo.Name = "BtnTwo";
             this.BtnTwo.Size = new System.Drawing.Size(127, 61);
             this.BtnTwo.TabIndex = 0;
             this.BtnTwo.Text = "2";
-            this.BtnTwo.UseVisualStyleBackColor = true;
+            this.BtnTwo.UseVisualStyleBackColor = false;
             this.BtnTwo.Click += new System.EventHandler(this.BtnNumeric);
             // 
             // BtnOne
             // 
+            this.BtnOne.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.BtnOne.Dock = System.Windows.Forms.DockStyle.Fill;
             this.BtnOne.FlatAppearance.BorderSize = 0;
             this.BtnOne.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.BtnOne.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.BtnOne.Location = new System.Drawing.Point(3, 197);
             this.BtnOne.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.BtnOne.Name = "BtnOne";
             this.BtnOne.Size = new System.Drawing.Size(127, 61);
             this.BtnOne.TabIndex = 0;
             this.BtnOne.Text = "1";
-            this.BtnOne.UseVisualStyleBackColor = true;
+            this.BtnOne.UseVisualStyleBackColor = false;
             this.BtnOne.Click += new System.EventHandler(this.BtnNumeric);
             // 
             // BtnMinus
             // 
+            this.BtnMinus.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.BtnMinus.Dock = System.Windows.Forms.DockStyle.Fill;
             this.BtnMinus.FlatAppearance.BorderSize = 0;
             this.BtnMinus.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.BtnMinus.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.BtnMinus.Location = new System.Drawing.Point(402, 132);
             this.BtnMinus.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.BtnMinus.Name = "BtnMinus";
             this.BtnMinus.Size = new System.Drawing.Size(127, 61);
             this.BtnMinus.TabIndex = 0;
             this.BtnMinus.Text = "-";
-            this.BtnMinus.UseVisualStyleBackColor = true;
+            this.BtnMinus.UseVisualStyleBackColor = false;
             this.BtnMinus.Click += new System.EventHandler(this.ArithmeticOperator);
             // 
             // BtnSix
             // 
+            this.BtnSix.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.BtnSix.Dock = System.Windows.Forms.DockStyle.Fill;
             this.BtnSix.FlatAppearance.BorderSize = 0;
             this.BtnSix.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.BtnSix.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.BtnSix.Location = new System.Drawing.Point(269, 132);
             this.BtnSix.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.BtnSix.Name = "BtnSix";
             this.BtnSix.Size = new System.Drawing.Size(127, 61);
             this.BtnSix.TabIndex = 0;
             this.BtnSix.Text = "6";
-            this.BtnSix.UseVisualStyleBackColor = true;
+            this.BtnSix.UseVisualStyleBackColor = false;
             this.BtnSix.Click += new System.EventHandler(this.BtnNumeric);
             // 
             // BtnFive
             // 
+            this.BtnFive.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.BtnFive.Dock = System.Windows.Forms.DockStyle.Fill;
             this.BtnFive.FlatAppearance.BorderSize = 0;
             this.BtnFive.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.BtnFive.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.BtnFive.Location = new System.Drawing.Point(136, 132);
             this.BtnFive.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.BtnFive.Name = "BtnFive";
             this.BtnFive.Size = new System.Drawing.Size(127, 61);
             this.BtnFive.TabIndex = 0;
             this.BtnFive.Text = "5";
-            this.BtnFive.UseVisualStyleBackColor = true;
+            this.BtnFive.UseVisualStyleBackColor = false;
             this.BtnFive.Click += new System.EventHandler(this.BtnNumeric);
             // 
             // BtnFour
             // 
+            this.BtnFour.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.BtnFour.Dock = System.Windows.Forms.DockStyle.Fill;
             this.BtnFour.FlatAppearance.BorderSize = 0;
             this.BtnFour.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.BtnFour.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.BtnFour.Location = new System.Drawing.Point(3, 132);
             this.BtnFour.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.BtnFour.Name = "BtnFour";
             this.BtnFour.Size = new System.Drawing.Size(127, 61);
             this.BtnFour.TabIndex = 0;
             this.BtnFour.Text = "4";
-            this.BtnFour.UseVisualStyleBackColor = true;
+            this.BtnFour.UseVisualStyleBackColor = false;
             this.BtnFour.Click += new System.EventHandler(this.BtnNumeric);
             // 
             // BtnPlus
             // 
+            this.BtnPlus.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.BtnPlus.Dock = System.Windows.Forms.DockStyle.Fill;
             this.BtnPlus.FlatAppearance.BorderSize = 0;
             this.BtnPlus.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.BtnPlus.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.BtnPlus.Location = new System.Drawing.Point(402, 67);
             this.BtnPlus.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.BtnPlus.Name = "BtnPlus";
             this.BtnPlus.Size = new System.Drawing.Size(127, 61);
             this.BtnPlus.TabIndex = 0;
             this.BtnPlus.Text = "+";
-            this.BtnPlus.UseVisualStyleBackColor = true;
+            this.BtnPlus.UseVisualStyleBackColor = false;
             this.BtnPlus.Click += new System.EventHandler(this.ArithmeticOperator);
             // 
             // BtnNine
             // 
+            this.BtnNine.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.BtnNine.Dock = System.Windows.Forms.DockStyle.Fill;
             this.BtnNine.FlatAppearance.BorderSize = 0;
             this.BtnNine.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.BtnNine.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.BtnNine.Location = new System.Drawing.Point(269, 67);
             this.BtnNine.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.BtnNine.Name = "BtnNine";
             this.BtnNine.Size = new System.Drawing.Size(127, 61);
             this.BtnNine.TabIndex = 0;
             this.BtnNine.Text = "9";
-            this.BtnNine.UseVisualStyleBackColor = true;
+            this.BtnNine.UseVisualStyleBackColor = false;
             this.BtnNine.Click += new System.EventHandler(this.BtnNumeric);
             // 
             // BtnEight
             // 
+            this.BtnEight.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.BtnEight.Dock = System.Windows.Forms.DockStyle.Fill;
             this.BtnEight.FlatAppearance.BorderSize = 0;
             this.BtnEight.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.BtnEight.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.BtnEight.Location = new System.Drawing.Point(136, 67);
             this.BtnEight.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.BtnEight.Name = "BtnEight";
             this.BtnEight.Size = new System.Drawing.Size(127, 61);
             this.BtnEight.TabIndex = 0;
             this.BtnEight.Text = "8";
-            this.BtnEight.UseVisualStyleBackColor = true;
+            this.BtnEight.UseVisualStyleBackColor = false;
             this.BtnEight.Click += new System.EventHandler(this.BtnNumeric);
             // 
             // BtnSeven
             // 
+            this.BtnSeven.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.BtnSeven.Dock = System.Windows.Forms.DockStyle.Fill;
             this.BtnSeven.FlatAppearance.BorderSize = 0;
             this.BtnSeven.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.BtnSeven.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.BtnSeven.Location = new System.Drawing.Point(3, 67);
             this.BtnSeven.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.BtnSeven.Name = "BtnSeven";
             this.BtnSeven.Size = new System.Drawing.Size(127, 61);
             this.BtnSeven.TabIndex = 0;
             this.BtnSeven.Text = "7";
-            this.BtnSeven.UseVisualStyleBackColor = true;
+            this.BtnSeven.UseVisualStyleBackColor = false;
             this.BtnSeven.Click += new System.EventHandler(this.BtnNumeric);
             // 
             // BtnNegator
             // 
+            this.BtnNegator.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.BtnNegator.Dock = System.Windows.Forms.DockStyle.Fill;
             this.BtnNegator.FlatAppearance.BorderSize = 0;
             this.BtnNegator.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.BtnNegator.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.BtnNegator.Location = new System.Drawing.Point(402, 2);
             this.BtnNegator.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.BtnNegator.Name = "BtnNegator";
             this.BtnNegator.Size = new System.Drawing.Size(127, 61);
             this.BtnNegator.TabIndex = 0;
             this.BtnNegator.Text = "±";
-            this.BtnNegator.UseVisualStyleBackColor = true;
+            this.BtnNegator.UseVisualStyleBackColor = false;
             this.BtnNegator.Click += new System.EventHandler(this.BtnNegator_Click);
             // 
             // BtnCancel
             // 
+            this.BtnCancel.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.BtnCancel.Dock = System.Windows.Forms.DockStyle.Fill;
             this.BtnCancel.FlatAppearance.BorderSize = 0;
             this.BtnCancel.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.BtnCancel.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.BtnCancel.Location = new System.Drawing.Point(269, 2);
             this.BtnCancel.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.BtnCancel.Name = "BtnCancel";
             this.BtnCancel.Size = new System.Drawing.Size(127, 61);
             this.BtnCancel.TabIndex = 0;
             this.BtnCancel.Text = "C";
-            this.BtnCancel.UseVisualStyleBackColor = true;
+            this.BtnCancel.UseVisualStyleBackColor = false;
             this.BtnCancel.Click += new System.EventHandler(this.BtnCancel_Click);
             // 
             // BtnBackspace
             // 
+            this.BtnBackspace.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.BtnBackspace.Dock = System.Windows.Forms.DockStyle.Fill;
             this.BtnBackspace.FlatAppearance.BorderSize = 0;
             this.BtnBackspace.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.BtnBackspace.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.BtnBackspace.Location = new System.Drawing.Point(136, 2);
             this.BtnBackspace.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.BtnBackspace.Name = "BtnBackspace";
             this.BtnBackspace.Size = new System.Drawing.Size(127, 61);
             this.BtnBackspace.TabIndex = 0;
             this.BtnBackspace.Text = "⌫";
-            this.BtnBackspace.UseVisualStyleBackColor = true;
+            this.BtnBackspace.UseVisualStyleBackColor = false;
             this.BtnBackspace.Click += new System.EventHandler(this.BtnBackspace_Click);
             // 
             // BtnCopy
             // 
+            this.BtnCopy.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.BtnCopy.Dock = System.Windows.Forms.DockStyle.Fill;
             this.BtnCopy.FlatAppearance.BorderSize = 0;
             this.BtnCopy.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.BtnCopy.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.BtnCopy.Location = new System.Drawing.Point(3, 2);
             this.BtnCopy.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.BtnCopy.Name = "BtnCopy";
             this.BtnCopy.Size = new System.Drawing.Size(127, 61);
             this.BtnCopy.TabIndex = 0;
             this.BtnCopy.Text = "Copy";
-            this.BtnCopy.UseVisualStyleBackColor = true;
+            this.BtnCopy.UseVisualStyleBackColor = false;
             this.BtnCopy.Click += new System.EventHandler(this.BtnCopy_Click);
             // 
             // lblShowOp
@@ -421,7 +461,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.ClientSize = new System.Drawing.Size(562, 427);
             this.Controls.Add(this.lblShowOp);
             this.Controls.Add(this.tableLayoutPanel1);

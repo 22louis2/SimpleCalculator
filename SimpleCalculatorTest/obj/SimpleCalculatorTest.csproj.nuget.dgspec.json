@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\source\\repos\\SimpleCalculator\\SimpleCalculatorTest\\SimpleCalculatorTest.csproj": {}
+    "C:\\Users\\hp\\source\\repos\\week-5-task-22louis2\\SimpleCalculatorTest\\SimpleCalculatorTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\source\\repos\\SimpleCalculator\\SimpleCalcLibrary\\SimpleCalcLibrary.csproj": {
+    "C:\\Users\\hp\\source\\repos\\week-5-task-22louis2\\SimpleCalcLibrary\\SimpleCalcLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\SimpleCalculator\\SimpleCalcLibrary\\SimpleCalcLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\week-5-task-22louis2\\SimpleCalcLibrary\\SimpleCalcLibrary.csproj",
         "projectName": "SimpleCalcLibrary",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\SimpleCalculator\\SimpleCalcLibrary\\SimpleCalcLibrary.csproj",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\week-5-task-22louis2\\SimpleCalcLibrary\\SimpleCalcLibrary.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\SimpleCalculator\\SimpleCalcLibrary\\obj\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\week-5-task-22louis2\\SimpleCalcLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -60,14 +60,14 @@
         }
       }
     },
-    "C:\\Users\\hp\\source\\repos\\SimpleCalculator\\SimpleCalculatorTest\\SimpleCalculatorTest.csproj": {
+    "C:\\Users\\hp\\source\\repos\\week-5-task-22louis2\\SimpleCalculatorTest\\SimpleCalculatorTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\SimpleCalculator\\SimpleCalculatorTest\\SimpleCalculatorTest.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\week-5-task-22louis2\\SimpleCalculatorTest\\SimpleCalculatorTest.csproj",
         "projectName": "SimpleCalculatorTest",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\SimpleCalculator\\SimpleCalculatorTest\\SimpleCalculatorTest.csproj",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\week-5-task-22louis2\\SimpleCalculatorTest\\SimpleCalculatorTest.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\SimpleCalculator\\SimpleCalculatorTest\\obj\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\week-5-task-22louis2\\SimpleCalculatorTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -87,8 +87,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\hp\\source\\repos\\SimpleCalculator\\SimpleCalcLibrary\\SimpleCalcLibrary.csproj": {
-                "projectPath": "C:\\Users\\hp\\source\\repos\\SimpleCalculator\\SimpleCalcLibrary\\SimpleCalcLibrary.csproj"
+              "C:\\Users\\hp\\source\\repos\\week-5-task-22louis2\\SimpleCalcLibrary\\SimpleCalcLibrary.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\week-5-task-22louis2\\SimpleCalcLibrary\\SimpleCalcLibrary.csproj"
               }
             }
           }

@@ -72,9 +72,11 @@ namespace SimpleCalcUI
 
         private void BtnCancel_Click(object sender, EventArgs e)
         {
-            // In-built method to clear TextBox display
+            /*
+             * In-built method to clear TextBox display and turning TextBox Text to 0
+            */
             txtDisplay.Clear();
-            //txtDisplay.Text = "0";
+            txtDisplay.Text = "0";
             /*
              * Clear the operation sign, label text and 
              * Turn first and second number inputted to zero
@@ -177,6 +179,7 @@ namespace SimpleCalcUI
             }
 
             // Turn Label container to an empty literal
+            operation = "";
             lblShowOp.Text = "";
         }
 
