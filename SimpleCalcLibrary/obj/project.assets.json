@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\week-5-task-22louis2\\SimpleCalcLibrary\\SimpleCalcLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\SimpleCalculator\\SimpleCalcLibrary\\SimpleCalcLibrary.csproj",
       "projectName": "SimpleCalcLibrary",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\week-5-task-22louis2\\SimpleCalcLibrary\\SimpleCalcLibrary.csproj",
+      "projectPath": "C:\\Users\\hp\\source\\repos\\SimpleCalculator\\SimpleCalcLibrary\\SimpleCalcLibrary.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\week-5-task-22louis2\\SimpleCalcLibrary\\obj\\",
+      "outputPath": "C:\\Users\\hp\\source\\repos\\SimpleCalculator\\SimpleCalcLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -17,11 +17,11 @@ namespace SimpleCalculatorTest
             SimpleCalcRepository res = new SimpleCalcRepository();
 
             // Act
-            string expected = res.Plus(firstNumber, secondNumber);
-            string actual = "12";
+            string actual = res.Plus(firstNumber, secondNumber);
+            string expected = "12";
 
             // Assert
-            Assert.Equal(expected, actual);
+            Assert.Equal(actual, expected);
         }
         #endregion
 
@@ -36,11 +36,11 @@ namespace SimpleCalculatorTest
             SimpleCalcRepository res = new SimpleCalcRepository();
 
             // Act
-            string expected = res.Minus(firstNumber, secondNumber);
-            string actual = "7";
+            string actual = res.Minus(firstNumber, secondNumber);
+            string expected = "7";
 
             // Assert
-            Assert.Equal(expected, actual);
+            Assert.Equal(actual, expected);
         }
         #endregion
 
@@ -55,11 +55,11 @@ namespace SimpleCalculatorTest
             SimpleCalcRepository res = new SimpleCalcRepository();
 
             // Act
-            string expected = res.Times(firstNumber, secondNumber);
-            string actual = "72";
+            string actual = res.Times(firstNumber, secondNumber);
+            string expected = "72";
 
             // Assert
-            Assert.Equal(expected, actual);
+            Assert.Equal(actual, expected);
         }
         #endregion
 
@@ -74,11 +74,11 @@ namespace SimpleCalculatorTest
             SimpleCalcRepository res = new SimpleCalcRepository();
 
             // Act
-            string expected = res.Divide(firstNumber, secondNumber);
-            string actual = "5";
+            string actual = res.Divide(firstNumber, secondNumber);
+            string expected = "5";
 
             // Assert
-            Assert.Equal(expected, actual);
+            Assert.Equal(actual, expected);
         }
         #endregion
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H2EsI/8lV+mys98s9+P8UMp3X8rn5J6LAYqmx7+mn6M5BMDuSBGzjjyMkTQ9AP2RhutBOLApZHZsqOhbRjrogg==",
+  "dgSpecHash": "U8JdJPbaL8md0GDwkWgQTJTQ8o8Xp8gujTRCuimGL0GQYcfQs1qcBEAXI4SAzimOPZmH9yTVQYBkEmkT5V/mXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\source\\repos\\week-5-task-22louis2\\SimpleCalculatorTest\\SimpleCalculatorTest.csproj",
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\SimpleCalculator\\SimpleCalculatorTest\\SimpleCalculatorTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

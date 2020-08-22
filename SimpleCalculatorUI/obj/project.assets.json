@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\week-5-task-22louis2\\SimpleCalculatorUI\\SimpleCalculatorUI.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\SimpleCalculator\\SimpleCalculatorUI\\SimpleCalculatorUI.csproj",
       "projectName": "SimpleCalculatorUI",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\week-5-task-22louis2\\SimpleCalculatorUI\\SimpleCalculatorUI.csproj",
+      "projectPath": "C:\\Users\\hp\\source\\repos\\SimpleCalculator\\SimpleCalculatorUI\\SimpleCalculatorUI.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\week-5-task-22louis2\\SimpleCalculatorUI\\obj\\",
+      "outputPath": "C:\\Users\\hp\\source\\repos\\SimpleCalculator\\SimpleCalculatorUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -57,8 +57,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\hp\\source\\repos\\week-5-task-22louis2\\SimpleCalcLibrary\\SimpleCalcLibrary.csproj": {
-              "projectPath": "C:\\Users\\hp\\source\\repos\\week-5-task-22louis2\\SimpleCalcLibrary\\SimpleCalcLibrary.csproj"
+            "C:\\Users\\hp\\source\\repos\\SimpleCalculator\\SimpleCalcLibrary\\SimpleCalcLibrary.csproj": {
+              "projectPath": "C:\\Users\\hp\\source\\repos\\SimpleCalculator\\SimpleCalcLibrary\\SimpleCalcLibrary.csproj"
             }
           }
         }
